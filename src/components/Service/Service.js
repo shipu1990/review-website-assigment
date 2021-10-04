@@ -22,8 +22,8 @@ const Service = () => {
             <Container>
                 <Row>
                     <Col>
-                    <h1 className="service-header">Our Courses</h1>
-                    <p className="service-para">Cheek Our Latest Courses That Can Help Your career</p>
+                    <h1 className="common-header">Our Courses</h1>
+                    <p className="common-para">Cheek Our Latest Courses That Can Help Your career</p>
                     </Col>
                 </Row>
             </Container>
@@ -39,7 +39,8 @@ const Service = () => {
                        service.map(course => <Col key={course.id}><Card>
                         <Card.Img variant="top" src={course.img} />
                         <Card.Body>
-                        <Card.Title>{course.name}</Card.Title>
+                        <Card.Title>Course Name: {course.name}</Card.Title>
+                        <Card.Text>Fee: {course.fee}</Card.Text>
                         <Card.Text>{course.des}</Card.Text>
                         </Card.Body>
                     </Card>  

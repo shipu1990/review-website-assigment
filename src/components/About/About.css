@@ -1,4 +1,4 @@
-.about-header {
+.common-header {
   padding-top: 120px;
   color: #fff;
   font-size: 50px;
@@ -15,7 +15,7 @@
   text-transform: uppercase;
 }
 
-.about-para {
+.common-para {
   font-size: 18px;
   line-height: 32px;
   color: #fff;

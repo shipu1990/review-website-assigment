@@ -1,0 +1,13 @@
+button.not-btn {
+  background-color: goldenrod;
+  padding: 10px 50px;
+  margin-bottom: 100px;
+  border: none;
+
+  border-radius: 8px;
+}
+.not-btn a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}

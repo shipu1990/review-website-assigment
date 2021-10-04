@@ -15,8 +15,8 @@ const Contact = () => {
             <Container>
                 <Row>
                     <Col>
-                    <h1 className="contact-header">Contact Us</h1>
-                    <p className="contact-para">We All are here to Listening from you</p>
+                    <h1 className="common-header">Contact Us</h1>
+                    <p className="common-para">We All are here to Listening from you</p>
                     </Col>
                 </Row>
             </Container>

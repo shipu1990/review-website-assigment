@@ -14,12 +14,11 @@ const HomeService = (props) => {
                 </Row>
                 <Row xs={1} md={3} className="g-4">
                     {
-                       service.map(course => <Col key={course.id}><Card>
+                       service.slice(0, 3).map(course => <Col key={course.id}><Card>
                         <Card.Img variant="top" src={course.img} />
                         <Card.Body>
                         <Card.Title>{course.name}</Card.Title>
-                        <Card.Text>{course.des}
-                        </Card.Text>
+                        <Card.Text>{course.des}</Card.Text>
                         </Card.Body>
                     </Card>  
                     </Col>) 
