@@ -1,0 +1,15 @@
+.logo img {
+  height: 100px;
+}
+nav {
+  text-align: left;
+  margin-top: 35px;
+}
+nav a {
+  padding: 0 25px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #000;
+  font-weight: bold;
+  text-transform: uppercase;
+}
