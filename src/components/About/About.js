@@ -17,7 +17,7 @@ const About = () => {
                 <Row>
                     <Col>
                     <h1 className="common-header">About Us</h1>
-                    <p className="common-para">We All are here to Listening from you</p>
+                    <p className="common-para">We are number one university in the world</p>
                     </Col>
                 </Row>
             </Container>
