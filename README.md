@@ -5,7 +5,7 @@ If you are student and confuse to select the subject this website will help you 
 
 ## Website Link
 
-Here is the live Link [http://localhost:3000](http://localhost:3000)
+Here is the live Link [https://happy-elion-3b7d0e.netlify.app/](https://happy-elion-3b7d0e.netlify.app/)
 
 ### Technology We use
 
