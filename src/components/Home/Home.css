@@ -1,0 +1,15 @@
+.home-header {
+  padding-top: 200px;
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.home-para {
+  font-size: 18px;
+  line-height: 32px;
+  color: #fff;
+  width: 70%;
+  text-align: center;
+  display: inline-block;
+}

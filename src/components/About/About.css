@@ -1,0 +1,25 @@
+.about-header {
+  padding-top: 120px;
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.contact-title {
+  font-size: 32px;
+  line-height: 40px;
+  color: black;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.about-para {
+  font-size: 18px;
+  line-height: 32px;
+  color: #fff;
+  width: 70%;
+  text-align: center;
+  display: inline-block;
+}
